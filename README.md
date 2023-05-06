@@ -6,7 +6,6 @@ The dashboard showcases a detailed analysis and insights on the space missions c
 
 ## Tool Used
 Microsoft Excel 
-In this project i went through a certain process to ensure the accuracy of my insights, This process includes the following phases :
 - Understanding the Meta Data
 - Modeling the data using Power Pivot
 - EDA [Exploratory Data Analysis]
