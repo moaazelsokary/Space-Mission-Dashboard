@@ -1,4 +1,4 @@
-*# Space-Mission-Dashboard
+# Space-Mission-Dashboard
 
 
 ## Insights
