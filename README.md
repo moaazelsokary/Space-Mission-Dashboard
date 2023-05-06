@@ -2,6 +2,8 @@
 
 The dashboard showcases a detailed analysis and insights on the space missions conducted by various countries from 1957 to August 2022, including the total cost, success rate, rocket launches, and spending on rockets.
 
+![Bike Sales Dashboard](https://github.com/moaazelsokary/Space-Mission-Dashboard/blob/main/Space%20Project.png)
+
 ## Tool Used
 Microsoft Excel 
 In this project i went through a certain process to ensure the accuracy of my insights, This process includes the following phases :
